@@ -1,0 +1,25 @@
+.img-header{
+    width: 250px;
+    height: 480px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    position: relative;
+}   
+.product-name{
+    padding: 10px;
+}
+.img-header img{
+    width: 200px;
+    margin-left: 20px;
+}
+.btn-cart{
+    background-color: chocolate;
+    width: 100%;
+    font-size: 18px;
+    padding: 8px;
+    position: absolute;
+    bottom: 0px;
+    border: unset;
+    border-radius: 0 0 8px 8px;
+    cursor: pointer;
+}

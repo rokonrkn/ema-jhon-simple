@@ -1,0 +1,28 @@
+.header{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.header img{
+    width: 180px;
+    margin-left: 30px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav.catagorys{
+    margin-right: 40px;
+    align-items: center;
+    display: flex;
+}
+nav.catagorys a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    margin-left: 20px;
+}
+nav.catagorys a:hover{
+    color: chocolate;
+}
